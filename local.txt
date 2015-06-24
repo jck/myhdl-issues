@@ -1,0 +1,2 @@
+# Replace the following line according to your system
+/home/jck/projects/myhdl
